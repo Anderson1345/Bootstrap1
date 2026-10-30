@@ -28,6 +28,73 @@ body {
 
 .caja4 {
     background-color: aliceblue;
+    height: 150px;
+}
+
+.caja5 {
+    background-color: #FFB884;
+    height: 100px;
+}
+
+.caja6 {
+    background-color: #615145;
+    height: 100px;
+}
+
+.caja7 {
+    background-color: #54787D;
+    height: 100px;
+}
+
+.caja8 {
+    background-color: #6B9997;
+    height: 70px;
+}
+
+.caja9 {
+    background-color: #8AB8A8;
+    height: 70px;
+}
+
+.caja10 {
+    background-color: #C6CCA5;
+    height: 50px;
+}
+
+.caja11 {
+    background-color: #F4F0EC;
+    height: 50px;
+}
+
+.caja12 {
+    background-color: #D7D5D0;
+    height: 50px;
+}
+
+.caja13 {
+    background-color: #CAB3A8;
+    height: 50px;
+}
+
+@media (min-width: 768px) {
+
+.caja1 {
+    background-color: #C0D1C2;
+    height: 50px;
+}
+
+.caja2 {
+    background-color: #FFF8D4;
+    height: 300px;
+}
+
+.caja3 {
+    background-color: #F5DF98;
+    height: 300px;
+}
+
+.caja4 {
+    background-color: aliceblue;
     height: 100px;
 }
 
@@ -75,14 +142,72 @@ body {
     background-color: #CAB3A8;
     height: 100px;
 }
-
-.caja14 {
-    background-color:  #8AB8A8;
-    height: 100px;
 }
 
-.caja15 {
+@media (min-width: 1200px) {
+
+.caja1 {
+    background-color: #C0D1C2;
+    height: 50px;
+}
+
+.caja2 {
+    background-color: #FFF8D4;
+    height: 300px;
+}
+
+.caja3 {
+    background-color: #F5DF98;
+    height: 200px;
+}
+
+.caja4 {
+    background-color: aliceblue;
+    height: 200px;
+}
+
+.caja5 {
     background-color: #FFB884;
+    height: 200px;
+}
+
+.caja6 {
+    background-color: #615145;
     height: 100px;
 }
 
+.caja7 {
+    background-color: #54787D;
+    height: 100px;
+}
+
+.caja8 {
+    background-color: #6B9997;
+    height: 100px;
+}
+
+.caja9 {
+    background-color: #8AB8A8;
+    height: 100px;
+}
+
+.caja10 {
+    background-color: #C6CCA5;
+    height: 100px;
+}
+
+.caja11 {
+    background-color: #F4F0EC;
+    height: 100px;
+}
+
+.caja12 {
+    background-color: #D7D5D0;
+    height: 100px;
+}
+
+.caja13 {
+    background-color: #CAB3A8;
+    height: 100px;
+}
+}
